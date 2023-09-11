@@ -1,2 +1,2 @@
 # digiClock
-A javascript based project for begiiners to understand Date()
+A javascript based project for beginners to understand Date()
